@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: red;
+}
+
+nav{
+    background: green;
+}
+
+main{
+    background: yellow;
+}
+
+section{
+    background: orange;
+}
+footer{
+    background: blue;
+}

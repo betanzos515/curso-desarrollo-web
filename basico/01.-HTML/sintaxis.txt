@@ -1,0 +1,1 @@
+html al ser un lenguaje de marcado o etiquetado maneja la siguiente sintaxis.
